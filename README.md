@@ -1,3 +1,3 @@
 # cloudbase
 Scripts for cloudbaseinit
-Scripts for windows serveres on openstack
+Scripts for windows servers on openstack
